@@ -1,0 +1,2928 @@
+Barry Hughes
+children
+fewer rights
+adults
+law
+enforced
+defend
+physical assault
+social behavior
+change to reflect
+legal framework
+prosecution
+
+Barry
+legal framework
+parents
+professionals
+prosecuting
+confusion
+grey areas
+
+first stage
+sufficient evidence
+submitted
+police
+provide a realistic prospect of conviction
+second stage
+public interest
+
+Barry Hughes
+Bill
+England
+needed a period
+cross-border issue
+potential legislation
+draft changing
+CPS guidance
+scrutinisers
+law in Wales
+
+Barry Hughes
+implications
+Bill
+raise awareness
+people from England
+travel to Wales
+people in other areas
+reflect on
+defense
+driving limit
+Scotland
+
+Barry Hughes
+draft changes to CPS guidance
+scrutinisers
+present interest factors
+principles of generality
+degree of specificity
+
+Barry Hughes
+cooperated organizations
+the National Police Chiefs' Council
+out-of-court disposals
+Hughes and Vikki Howells
+creating a body
+out-of-court disposals 
+specific to the Bill
+duty around awareness raising
+
+The National Police Chiefs' Council
+responsible for 
+developing the police approach
+out-of-court disposals
+simplifying the range of
+out-of-court disposals
+
+Barry Hughes
+infrastructure
+out-of-court disposals
+Welsh Government
+the police
+crime commissioners
+
+Barry Hughes
+unintended consequences
+isolated incidences in Wales
+targets
+performance measure
+malicious reporting
+the European convention
+human rights
+low numbers of prosecutions
+shortage of registered intermediaries
+
+Barry Hughes
+prosecuted
+reasonable prospects
+the police
+targets for the police
+individuals
+
+Karen Cornish
+potential barrier
+substantial barrier
+The Ministry of Justice
+taken action to deal with
+people in the positions
+required larger recruitment
+
+The group
+remote control
+fancy
+innovative
+easy to use
+easy to find
+spongy
+evaluated the prototype
+criteria
+brilliant ideas
+designed a best remote control 
+within their capacity
+high quality
+low acceptance
+
+User Interface
+voice recognition
+hard to learn
+Industrial Designer
+remote control
+use the basic part
+advanced user
+explore additional functions
+
+Marketing
+basic layout
+mundane
+voice recognition
+brilliant
+User Interface
+digits
+features
+normal remote control
+Industrial Designer
+the best product 
+within their capacity
+Project agreed
+high quality
+low acceptance
+
+Project Manager
+22 Euros 
+at current standards
+leave out some characteristics
+add much value
+dull and simple 
+without those characteristics
+selling price
+50 Euros
+
+Project Manager
+over budget
+make some changes
+reduce costs 
+by leaving out solar cells
+using voice recognition
+User Interface
+buttons 
+made of plastics
+Industrial Designer
+remote control 
+straight and simple
+
+prototype
+over budget
+Industrial Designer
+raise the selling price
+50 Euros
+not very expensive
+remote control
+functionality
+
+Project Manager
+function design
+Marketing
+user needs
+buttons for channel selection
+frequency of use
+relevance of each button
+targeting 
+nineteen to thirty-five years old age
+design functions
+User Interface
+technical effect
+users need
+best functions
+Industrial Designer
+working design
+input a channel
+volume setting
+location function
+television
+
+Industrial Designer
+buzzer 
+trace the remote location
+Project Manager
+two-part package
+click the button
+on the TV
+send out the signal
+remote base
+beep
+remote control has gone
+
+Marketing
+speech recognition design
+from nineteen to thirty-five
+Industrial Designer
+feature design
+TV is on
+says like one
+the TV
+switch itself to channel one
+Project Manager
+considering the budget
+speech recognition
+programmed
+single remote
+expensive
+commonly agreed
+mates
+
+Project Manager
+VCR capabilities
+Industrial Designer
+VCRs
+the same across the world
+Industrial Designer
+set of buttons
+individual VCRs
+Project Manager
+DVD type
+considering the target group
+young professionals
+teenagers
+
+The professor
+lapel microphones
+too close
+representative microphones
+strong agreement
+mics capture breath
+other non-voice sounds
+they were common
+
+PhD F
+mistakenly
+run his tasks
+available compute instances
+not enough computational resources
+going around
+New computers
+coming soon
+have to learn to share
+saturate computational resources
+
+The professor
+at a workshop
+Hopkins
+Rutgers
+twenty-five participants
+running their tasks
+twenty-five machines
+ran tasks 
+on their own machine
+PhD F
+
+The team
+spectral subtraction
+scaling
+GGT bins
+pros and cons
+The professor
+spectral subtraction
+KL transformation
+JRASTRA's technique
+adding some noise
+get rid of noise
+VTS techniques
+
+PhD D
+VTS technique
+voice-unvoice
+Jose Carlos Segura
+Grenada
+did not know
+inspiration
+VTS
+CMU
+
+The professor
+advantage
+Wiener filter
+subspace
+spectral subtraction
+KL transform
+Wiener filter
+
+recording equipment issues
+purchase
+two additional headset
+prospect
+new base station
+wireless microphones
+replace those wired microphones
+in use
+transcriptions
+cleaning up transcripts
+set conventions
+normalize loudness levels
+distinguish between foreground and background speech
+legal and procedural
+provision of transcripts
+bleeping out
+Meeting Recorder database
+
+recording equipment
+purchase 
+headsets
+prospect 
+new base station
+wireless microphones
+wired microphones
+in use
+
+recording conventions
+consistent
+ICSI
+University of Washington
+SRI
+
+recorded
+non-digits recordings
+digit extraction
+
+transcripts are clean
+channelized
+conventions 
+coding of numbers
+acronyms
+explicit comments (e.g. door slams, coughs, and laughter). 
+tighten up
+multi-channel
+
+discriminating
+situation models
+running budget
+financial policy
+thrift
+average
+spendy
+finer scale ones
+
+value for user model
+user budget
+outcomes of decisions
+represent the budget
+financial policy of users
+user thrift
+
+Grad E
+Go-there
+Professor B
+discourse properties
+lack of ontologies
+exhibiting and selling
+binary EVA values
+necessary to make this choice
+layout of belief-nets
+belief-nets.
+
+Grad E
+Go-there
+represent discourse
+true-and-false values
+go some place
+how to get there
+
+Professor B
+combining influences mathematically
+potential solutions
+computation methods
+weighted combination
+mixture of experts
+belief-nets
+
+Grad D
+different experts
+combine them
+diverse situations
+divided into several parts
+experts
+particular situation
+mixture of expert
+detailed computation process
+
+user interface designer
+the industrial designer
+marketing expert
+product requirements
+the project manager
+remote control
+easy to use
+fashionable
+television
+Internet
+
+user interface designer
+Google TV controller
+user interface
+learning the manual
+industrial designer
+international standards
+pictograms
+
+industrial designer
+Internet
+user interface designer 
+box
+surf the Internet
+popular
+global usage
+
+infrared-based controller
+laser
+industrial designer
+wireless remote control
+easier to manage
+project manager
+cost
+user requirements
+buttons
+ten percent
+zap
+
+industrial designer
+wireless technology
+8 Euros
+wireless control
+remote control
+prevent control from losing
+
+industrial designer
+mixing several functions
+switch menu
+several classes
+category of functions
+
+seventy-five percent
+remote controls 
+ugly
+look fancy
+remote control
+project manager
+recognizable
+attractive
+
+look fancy
+many colours
+grey
+different customers
+
+project manager
+good-looking
+many colours
+product cost
+remote control
+image of the society
+at a glance
+
+gratitude
+first responders
+working populations
+different companies
+COVID
+education
+fortitude appreciated
+disenfranchised groups
+rural residents
+
+Government
+accused of
+adequate scrutiny
+Prime Minister
+locking down 
+Parliament
+accountability
+ministers meeting
+negotiate
+pass a bill
+
+Members
+aboriginals
+police brutality
+disrupted education
+indigenous
+rural residents
+internet
+black lives movement
+
+Prime Minister
+Auditor general
+conduct audits
+Government's spending
+budget
+unsatisfactory
+questioning party
+
+Prime minister
+the CERB
+constituents
+urgency
+clarifications
+affected population
+depended on CERB
+
+GBA+ analysis
+COVID-19
+inadequate programs
+successful efforts
+
+remote control
+original
+trendy
+easy to use
+international
+not too expensive
+
+sold
+entire world
+everyone
+
+remote control
+25 Euros
+product cost
+no more than
+12.5 Euros
+
+Project manager
+Industrial Designer
+functions
+User interface designer
+users' requirement
+relation 
+between the users
+remote control
+Marketing
+trends
+what should be done
+what the users would like
+
+Industrial designer
+user interface designer
+relation between 
+the users
+remote control
+how the object looks
+
+Industrial Designer
+design the functions
+industrial way
+implement
+user interface designer
+how the object looked
+inside
+outside
+
+belief-net
+one layer of nodes
+features
+final output
+flexible
+feature-layer 
+probabilities
+
+refine
+feature nodes
+identify possible clusters
+traditional AI
+recognition techniques
+inferring intentions
+schemas involved
+elaborate
+
+demonstration
+belief-net
+intentionality
+features nodes
+prosody
+discourse
+verb choice
+landmark-iness
+admission fee
+
+middle layer
+hidden variables
+interaction
+running an errand
+approach a building
+
+SmartKom
+intentions
+discourse
+detection of features
+querying
+anaphora resolution
+
+collection of new data
+start soon
+recruit subjects
+run the experiments
+designing of the experiments
+progressed significantly
+
+User Interface
+Industrial designer
+dolphin
+pig
+smart
+easy to draw
+Marketing
+horse
+Project Manager
+remote control
+water resistant
+strong
+furry
+25 Euros
+earn a revenue
+million Euros
+Project Manager
+reflect on experience
+function and format
+
+Marketing
+easy to find
+User Interface
+call button
+vibrate
+had a signal
+expensive
+Project Manager
+magnet
+portable phone
+remote control
+walk over the TV
+
+Project Manager
+remote control
+made large
+avoid losing
+User interface
+bigger
+hand-sized device
+putting noise
+User Interface
+feasible
+25 Euros
+
+
+User Interface
+less button feature
+remote control
+Project Manager
+telly screen
+User Interface
+master control
+electronic houses
+User Interface
+expensive
+Marketing
+acceptable cost
+Project Manager
+
+User Interface
+remote control
+robust
+water resistant function
+Marketing
+tactile feel
+remote control function
+hand sweat
+Project Manager
+clip features
+
+The selling price goal
+25 Euros
+profit aim
+50 million Euros
+fifty percent
+hope to sell
+internationally
+Scotland
+European
+
+multiple languages
+diversity
+potentially hindered
+model performance
+skeptical
+good ones
+
+PhD D 
+multilingual model
+French
+Spanish
+English
+higher frame rates
+
+The professor
+get hurt
+removal of English
+worthwhile
+train on one language 
+test on another
+
+neural net
+simple net
+larger net
+more features
+removing silent frames
+bigger hidden layer
+substantially improve performance
+facing computational limitations
+
+availability
+computational resources
+megahertz processors
+IBM
+
+delays
+removal of frames
+improve model performance
+small delay
+
+Marketing
+younger target group
+colourful objects
+soft material
+Project Manager
+remote control
+slippery
+Industrial
+casing possibilities
+uncurved
+single-curved
+double-curved
+uncurved design
+scroll-wheels
+
+Industrial Designer
+natural feeling
+Marketing
+younger target group
+soft material
+sponge
+User Interface
+rubber
+
+Industrial Designer
+uncurved
+single-curved
+double-curved
+User Interface
+Project Manager
+uncurved design
+scroll-wheels
+
+Industrial Designer
+scroll-wheels
+integrated with button
+User Interface
+practicability
+Project Manager
+integrate a scroll-bar
+mute the device
+LCD display
+regular chip
+
+Industrial Designer
+scroll-wheels 
+integrated with buttons
+User Interface
+practicability
+round button
+four directions
+Project Manager
+young customers
+mute the device
+
+Industrial Manager
+LCD
+advanced chips
+LCD display
+User Interface
+high-tech substances
+scroll-wheels
+voice recognition
+fancy look
+
+Welsh bac
+parents
+young people
+employers
+vast majority
+running the business 
+without a clear understanding
+
+Ed Evans
+employers
+his own sector
+civil engineering sector
+contracting sector
+pupils
+academic background
+Welsh bac
+academic
+challenges
+the growth
+
+voice of employers
+reviewing the qualification
+colleges
+qualifications boards
+employers
+qualification
+Welsh baccalaureate
+improve skills
+employment
+join employers
+schools
+education facilities
+
+Welsh bac
+combination of qualifications
+qualification
+employability skills
+worked 
+prepare for employment
+not for everyone
+do the other things
+prepare some people
+A level students
+university, but did not help 
+health
+social care
+skilled
+employable
+
+Kay Martin
+help learners
+develop skills
+employable people
+Welsh bac
+preparing employment
+not for everybody
+GCSAs
+lacking literacy
+numeracy skills
+Kay Martin
+to be reviewed
+skilled
+
+Dafydd Evans
+priorities
+resit their GCSE
+C grade
+core subjects
+take some time
+teaching young people
+baccalaureate
+resitting their GCSEs
+Nick Brazil
+Welsh bac
+combination of qualifications
+developing the employment
+
+universities
+understand
+Russell Group universities
+admission tutors
+valued it more
+some others did not
+
+Nick Brazil
+institution
+long track record
+top universities
+Russell Group universities
+Welsh bac
+offering an option
+A2 level grades
+
+Welsh universities
+recognize the bac
+not a huge problem
+go out to universities in England 
+encountered some problems
+Bangor and Glyndŵr university
+
+skills
+challenges
+Welsh bac
+vocational qualification
+staff
+got those skills
+vocational lecturers
+invested heavily
+vocational lecturers
+deliver the Welsh bac
+positive outcomes
+intensive staff development
+
+Dafydd Evans
+be a success
+contextualised
+vocational lecturers
+invest heavily
+vocational lecturers
+how to deliver
+Welsh bac
+positive outcomes
+intensive staff development
+
+Nick Brazil
+number of the skills
+number of challenges
+Welsh bac
+similarly
+vocational qualification
+staff
+skills
+undertaken
+
+four purposes
+set out 
+in the legislation—as
+putting in learning and experience
+government
+legislate
+cross-curricular
+literacy
+the numeracy
+the digital competency
+statutory provision
+
+learning and experience
+put into the legislation
+every school
+teach mental health
+physical and mental health
+government
+legislate
+what matters
+
+what matters
+articulation of the big ideas
+essence of the core content
+consistent
+statements
+secondary legislation
+deliver
+legal requirement
+on the face of、 
+Bill
+mental health
+
+Kirsty Williams
+Welsh Government
+WISERD
+More research
+Welsh education
+Government
+taken into consideration
+new curriculum
+empowering teachers
+flexible
+what they teached 
+their children
+deliver lessons
+engaging
+
+WISERD research
+senior management teams
+classroom teachers
+share different views
+sceptical
+crucial
+difficult step
+delay
+implementation
+curriculum
+amount of time
+school leaders
+individual classroom practitioners
+make the most of the opportunity
+ensure this process
+accountability frameworks
+aims and objectives
+incorporated
+
+learned from
+Scotish curriculum
+introducing their curriculum
+assessment
+content
+crucial part
+professional learning
+profession
+properly prepared
+alert
+Welsh government
+Steve Davies
+
+insignificant amount
+largest investment
+professional
+history of devolution
+empowered head teachers
+needs of the school
+practitioners
+national level
+
+The money that was agreed
+two-year perio
+continuously
+cooperation
+Minister for Finance
+future allocations
+professional learning
+campaign
+allocated specifically
+
+pioneers
+morph into 
+innovation schools
+programme of 
+innovation schools
+move away from 
+specific aspect
+curriculum
+encouraged
+
+children's rights
+human rights
+key considerations
+throughout the design
+overarching guidance
+government
+children's commissioner's office
+rights of the child
+learning and experience
+initial assessment
+demonstrated
+new curriculum
+big stepforward
+engagement
+exploring learners' views
+schools and learning
+powerful contribution
+
+Learned Society
+Wales
+directory of resources
+Welsh dimension
+separate programme
+support the curriculum
+
+Welsh dimensionare
+specific areas
+Welsh language
+be included
+implementation
+
+satisfying profit
+25 euros
+relatively high
+higher price
+fewer consumers
+touchscreen
+remote control
+children
+energy source
+rechargeable one
+
+remote control
+25 euros
+relatively high
+existing one
+high price
+potential consumers
+Project Manager
+universal
+universal remote control
+unique characters
+attract more consumers
+profit expectation
+
+advanced techniques
+remote control
+unique
+Industrial Design
+touchscreen
+Notwithstanding
+touch screen
+easier
+smaller
+beyond the budget
+
+conceptual design
+remote control
+energy source
+Industrial Design
+rechargeable
+limited budget
+setting a station at home
+using normal batteries
+feasible
+
+User Interface
+drew a draft
+button layout
+clear enough
+to be recognized
+remote control
+stand hit
+
+button layout
+User Interface
+drew a draft
+remote control
+unique
+attractive
+essential and useful
+same place
+scattered
+clear logos
+user-friendly
+not really matter
+where the buttons
+
+meeting annotation progress
+variability
+future meetings
+recording equipment
+departments
+record meetings
+storage of meetings 
+on disk
+how to handle 
+speech overlap
+speaker anonymity
+
+record different meetings
+summarization
+meeting participants
+diversity
+instrumental 
+in acoustical research
+
+championing
+get proficient
+English speakers
+allow for
+stable language model
+limiting the type of accents
+ensuring the speakers
+proficiently 
+follow the English grammar
+expressed themselves
+
+proposed solution
+set up another room
+linguistics department
+dedicated partner
+safety of the equipment
+equipment portable
+transported 
+from meeting to meeting
+
+introduce 
+portable equipment
+challenged
+complexity
+recording equipment
+
+Grad B
+archiving of the data
+creating a clone
+took eleven hours
+accessing the data
+freed ten gigabytes
+free space
+two copies
+offisite
+onsite
+
+disk rack
+four thirty-six 
+gigabyte disks
+increasing the space
+directories
+Aurora data
+Carmen’s Data
+
+Marketing
+remote functional requirements
+marketing reports
+fancy look
+remote control
+ease of use
+elderly people
+on the home
+trace its position
+and speech recognition
+usability
+color
+Marketing's presentation
+
+Marketing
+target group
+young people
+people above forty
+keen on new features
+expensive
+speech recognition and not 
+reachable
+twenty-five Euros
+DVD player
+stereo
+VCR
+television
+
+Marketing
+looked fancy
+fashionable
+easy to use
+elderly
+User Interface
+remote control
+usability
+color
+shape
+
+User Interface
+stand up with
+unique design
+different shapes
+User Interface
+favorite channels
+menu button
+integrate with volume
+mobile phone
+
+Marketing
+criteria
+evaluation
+fancy look
+ease of use
+technological innovation
+extraordinary
+market trend
+fruit and vegetables
+colors
+creativity
+leadership
+
+Project Manager
+easy to learn
+Industrial Designer
+pay attention
+reached a consensus
+scroll wheel
+better than average
+on this criterion
+
+Project Manager
+skip the speaker
+User Interface
+power indicator
+Marketing
+button
+beep for
+production cost
+12.3 Euros
+
+remote price
+twenty Euros
+production cost
+twelve point three Euros
+board
+remote prototype
+stupid
+
+User Interface
+wrong information
+finance discussion
+quicker
+
+Marketing
+user requirements
+market reports
+fancy look
+technological innovation
+minimization of repetitive 
+strain injury
+preliminary rating
+seven-point scale
+remote control
+fashion
+location function
+minimization
+repetitive strain injury
+modifications 
+prototype
+
+Marketing
+Industrial Designer
+limited
+materials
+prototype
+fashion
+changeable faces
+customize
+remote controls
+rubber case
+spongy
+style design
+
+Marketing
+pointers unfeasible
+prone
+zap
+Project Manager
+slight
+small-sized
+feasible solution
+low rate
+prototype
+minimization
+strain injury
+
+cost
+remote control
+regular chip
+kinetic cell
+double-curved bottom
+push button
+LCD screen
+rubber
+plastic materials
+voice recognition
+business customers
+budget
+incorporated
+12.5 Euros
+under the budget
+
+User Interface
+standard batteries
+kinetic batteries
+cost
+Marketing
+User Interface
+battery type
+big difference
+shape 
+colours
+Marketing
+replacement
+User Interface
+little attention
+batteries
+installed internally
+
+Industrial Designer
+kinetic batteries
+standard batteries
+voice recognition
+Project Manager
+upgraded
+specifications
+
+committee
+funding issues
+pressure
+schools
+new Act
+government
+PRU
+required training
+Estyn
+Welsh Government
+opportunities
+local authorities
+
+David Hopkins
+Sharon Davies
+new Act
+pressure 
+schools
+delegation
+headmasters
+local authorities
+constructively
+ost-16 sector
+
+David Hopkins
+delegation levels
+high enough
+authority areas
+agreements with
+government
+enough money
+school
+decisive factor
+narrow measure
+Stage 4
+headmasters
+students
+
+improvements
+in the networking
+PRU
+national meetings
+regular basis
+sharing of practice
+professional training
+transition arrangement
+new provision
+students through
+returned to school
+reduction of support
+
+students
+statutory education
+biggest challenge
+mainstream education
+transition
+education
+colleges
+
+Sharon Davies
+team-around-the-family
+go back into school
+school
+package of support
+learners
+families
+PRU
+Oxford
+built the partnership
+demonstrate the responsibility
+school participation
+
+advantages
+youngsters' voice
+be heard
+willingness
+go back into school
+learners
+cooling-off period
+disadvantage
+individual schools
+lack of capacity
+organize
+offer 
+additional training
+Monitor
+evaluation systems
+EOTAS 
+education quality
+
+Sharon Davies
+objection
+exclusions
+safeguarding
+home tuition
+limited access
+local authority
+home tuition
+difficult to assure
+invited them
+rare situation
+local authorities
+restricted
+
+intuition
+private setting
+restricted timetable
+students' need
+at school
+PRU staff
+education
+agency staff
+provision
+service 
+offered by
+local libraries
+
+PRU
+collaborate
+schools
+curriculums
+special needs
+finance
+recruitment
+professional staff
+training system
+
+Dawn Bowden
+staff members
+provision area
+professional training
+Sharon Davies
+situation
+Internet
+opportunity
+
+issues
+transport
+EOTAS
+learners
+rural areas
+Wales
+provision
+Powys
+WLGA
+investigated
+investigation
+
+User Interface
+remote control
+easy to use
+multi-functional
+user-friendly
+Industrial Designer agreed and proposed that a 
+stick
+round button
+volume control
+channel selection
+ten digits
+substituted
+voice recognition
+
+Industrial Designer
+ten buttons
+dull 
+speech recognition
+power saving
+difficult
+
+User Interface
+remote controls
+multi-functional
+easy to use
+emphasized
+user-friendliness
+target people
+forty years old
+multi-function
+
+Industrial Designer
+remote control
+infrared
+communicate with
+TV sets
+energy-friendly
+save the cost
+circuit boards 
+elaborate lighting techniques
+losing,
+audio signal
+energy source
+cradle
+recharged
+
+User Interface
+base station
+TV
+Industrial Designer
+technically complicated
+cost
+audio signal
+
+Industrial Designer
+incorporate
+solar panel
+rechargeable batteries
+Project Manager
+Marketing
+cradle
+
+detailed design
+prototype presentation
+Industrial Designer
+wheel
+button
+remote control
+Marketing
+eleven points
+marketing trend
+company strategy marketing
+calculation
+evaluation criterion
+
+Project Manager
+changing
+aspect of the remote
+previous evaluation
+material
+smallish size
+smashed
+resembled fruit shape
+printed patterns
+rubber design
+changing batteries
+no problems
+battery design
+
+Project Manager
+creativity
+fruit 
+squishiness
+User Interface
+prototype
+creatively stimulating
+criteria
+Project Manager
+recognition
+performance
+cooperation
+convenience 
+materials
+pen used 
+in the presentation
+user-friendly
+working efficiency
+
+changing the shape
+changing the batteries
+point under three
+Marketing
+batteries
+easy to insert
+critical
+shape
+squishiness
+innovation
+technology
+change the shape
+
+Project Manager
+leadership
+crap personally
+management position
+Industrial Designer
+Project Manager
+leadership
+User Interface
+did a good job
+set role
+democratic process
+Marketing
+blended
+
+User Interface
+Industrial Designer
+PowerPoint
+writing notes 
+massive information
+Marketing
+Project Manager
+PowerPoint material
+useful
+ignorant
+explaining things
+
+thesis proposal
+construal
+claims
+inferences
+probabilistic
+relational model
+ontology
+situation
+user
+discourse models
+emphasis
+role of construal
+metaphor
+metonymy
+
+ICSI
+inference
+user intentions
+recordings
+on-going 
+data collection
+outline
+theoretical
+neural background
+
+EML
+theoretical framework
+NTL
+mirror neurons
+fMRI
+neural side
+interest
+language analysis
+image schemas
+feedback
+on the thesis
+proposal
+email
+construction formalism
+presentation
+
+user interface designer
+three concepts
+user interface
+Google controller
+fancy controller
+intelligent controller
+product
+simple
+powerful
+attractive
+recognizable
+speech recognition technology
+gesture recognition technology
+project manager
+mix
+vocal commands
+
+interface designer
+controller
+speech recognition technology
+gesture recognition technology
+convenient
+find it
+feature
+reliable
+distinguish
+new product
+traditional
+motivation
+replace
+key feature
+
+project manager
+speech recognition
+change the channel
+cost
+rise
+technologies
+user interface designer
+cooperate with
+research institute
+vocabulary
+wouldn't cost much
+language problem
+language adaptations
+all countries
+microphone
+camera
+
+discussion
+product industrial design
+material
+alimentation
+chip
+industrial designer
+wood
+plastic
+controller
+fashionable
+buttons
+LCD
+in dark
+alimentation
+classical battery
+solar energy alimentation
+easy to use
+low level chip
+
+solar energy alimentation
+remote areas
+recharge
+controller
+conveniently
+ecologists
+purchase
+production cost
+compensated
+
+wood
+plastic
+fashion
+electronics
+plastic material
+common
+impersonal
+high class
+
+marketing expert
+market analysis
+fancy look
+functional
+technologically innovative
+user-friendly
+requirements
+practice
+
+from clothes to shoes
+furniture
+fruits and vegetables
+marketing
+spongy touch
+partly wooden
+partly rubber-made
+
+fashionable
+spongy
+wood
+rubber
+controller
+users touched
+buttons
+natural
+
+Marketing
+presentation
+remote control market
+remote control
+fancy look
+functional
+technologically innovative
+spongy material
+colour fronts
+
+User Interface
+spongy remote
+Marketing
+changeable front
+colour front
+fancy look
+remote control
+five different fronts
+round
+different
+normal remote control
+
+User Interface
+speech recognition
+Marketing
+technological innovation
+technology department
+research
+speech
+
+normal batteries
+scroll wheel
+rubber button
+back-lights
+beeping
+home station
+round shape
+speech recognition
+advanced chip
+LCD
+expensive chip
+
+Marketing
+User Interface
+shape
+remote
+iPod square
+innovative 
+round shape
+Project Manager
+rounded corners
+iPod
+innovative
+
+Marketing 
+emphasized
+technology innovation
+Project Manager
+speech recognition
+remote
+advanced chip
+Industrial Designer
+division
+inexpensive
+integrated programmable 
+sample sensor
+cost
+
+handling of fraudulence
+Canadian government
+Right Hon
+Justin Trudeau
+Prime Minister
+government
+support
+help
+Canadians
+Mr. Gabriel Ste-Marie
+supported the profiteers
+tax evasion
+employer emergency 
+financing facility
+making plans
+survive this pandemic
+priority to overcome
+unopened mail
+Service Canada
+violence case
+Liberals
+gun
+illegal
+farm rifle
+murdered
+banning gun
+
+prime minister
+government
+outlaw
+immoral
+bank relocated
+profitable activities
+carried out
+Canada 
+subsidiary
+Bahamas
+Barbados
+tax
+taxes
+support the profiteers
+
+Canadian Association of Chiefs of Police
+military assault rifles
+sole purpose 
+killing people
+in large numbers
+urged the government
+enact legislation
+ban
+military assault rifles
+law enforcement
+military purposes
+regulations
+weapons
+hunting
+sport
+soldiers
+combat
+kill other soldiers
+Canadian society
+
+pandemic
+Covid-19
+government
+gap
+single parents
+children
+support they need
+matching funds
+adequate housing
+support the affected 
+in Canada
+the elderly
+highest risk populations
+obtained extra funding
+vulnerable people
+disabled
+funding support
+workers 
+affected by the pandemic
+gain support
+
+Ms. Jenny Kwan
+single parent
+children
+lost her spousal
+child support
+COVID-19
+taxes
+spousal income
+eligible
+CERB
+complicated program 
+delivered
+government
+no action 
+reacting
+fixation
+gap
+matching funding
+adequate housing
+arranged for
+who were affected
+
+highest risk populations
+the elderly
+costs
+gone up
+seniors
+extra dispensing fees
+budgeting
+pandemic
+government
+support
+announced a one-time
+tax-free payment
+$300
+seniors eligible for OAS
+$200
+seniors eligible for GIS
+$500 
+vulnerable seniors
+financial security
+$20 million
+horizons
+seniors program
+kick-start initiatives
+services
+grocery deliveries right
+stay connected
+
+Quebec
+Canada
+hydroelectricity
+renewable energy
+energy corridor
+essential
+different areas in Canada
+hard-hit sector
+tourism
+support
+Canadian government
+government
+tourism-based economy
+investing in 
+tourism infrastructure
+upgrades
+tourist regions
+be ready
+the economy reopened
+green economy
+gave priority
+virus
+through this disaster
+small businesses
+carried out measures
+help them out
+
+economic situation
+disappearance
+Canada
+tourism industry
+thousands of Canadians
+find new jobs
+survive
+work together
+hard-hit sector 
+moving again
+lost their jobs
+needed assistance
+government
+providing a helping hand
+come out
+
+small businesses
+moved forward
+measures
+assistance
+rent support
+encouraging landlord
+support this measure
+rent
+landlord-tenant relations
+provincial jurisdiction
+finance ministers
+engaged
+support small businesses
+reduce their rent
+landlords
+75%
+provinces
+step forward
+enforce it
+
+pandemic
+lobster fishery
+negatively affected
+losses
+95%
+Asian markets
+fishermen
+wives
+sons
+uncles
+fathers
+family 
+on the boat
+tourism season
+COVID-19
+industries
+businesses
+festivals
+losses of income
+oil and gas
+oil storage
+under extreme pressure
+thermal projects
+SAGD 
+shut down
+facilities
+oil and gas sector
+COVID 
+global price war
+
+fish
+seafood sector
+affected
+COVID-19
+put measures
+in place to
+$62.5 million
+processors
+CERB
+available for seasonal workers
+people who had run out of their fishery EI
+more needs to be done
+fishery enterprises
+fishing enterprises
+eligible for many of the supports
+people who ran out of the fishers EI
+eligible
+seasonal workers
+
+oil and gas industry
+severe strain
+tremendous pressure
+federal government
+anti-oil
+gas lobby
+oil sands
+shut down
+federal
+Liberal government
+anti-oil lobby
+Bill C-69
+oil and gas
+Canada
+oil shipping ban
+Bill C-48
+northern coast 
+British Columbia
+negative effect
+oil industry
+bill
+$200 billion
+Alberta economy
+recession levels
+economic problems
+price war
+COVID-19
+demand for oil
+
+user interface designer
+basic colour
+red
+yellow
+circle
+triangle
+mushroom design
+fuzzy look
+spherical channel selection
+stable triangle base
+marketing
+mushroom
+in the trends
+pineapple
+
+yellow
+company colour
+red
+attractive
+product requirement
+remote control 
+fancy look
+attract
+customers
+
+user interface designer
+shape
+buttons
+mushroom
+marketing
+in the trend
+vegetable
+fruit
+
+marketing
+measuring
+design
+talking about
+scale of one to seven
+criterion
+fancy
+technologically innovative
+easy-to-use
+remote control
+separate aspects
+
+controller
+microphone array
+recognise 
+vocal commands
+microphone
+capture voice
+different directions
+tactile buttons
+good point
+
+user interface designer
+traditional controller
+press a button
+turn the ball
+certain angle
+select channels
+marketing
+industrial designer
+angle
+correct one
+all the channels
+jump from channel one to twenty
+
+low level chip
+button
+LCD
+scroll wheel
+a push button
+battery
+single curve
+solar cells
+plastic
+wooden
+costs
+12.5 Euros
+within the budget
+future products
+fruit collection
+electronic device
+customizable TV
+followed the trend
+people's moods
+
+solar cell
+expensive
+product
+crucial
+controller
+technologically
+innovative
+interesting
+marketing
+advertisements
+
+marketing
+trust too much
+trend
+last long
+fruits
+vegetables
+in fashion
+insects
+industrial designer
+follow the flow
+electronic device
+long life
+product
+appearance
+
+Industrial Designer
+integrate
+remote controls
+different appliances
+Marketing
+integration 
+button
+user-friendly
+Marketing
+menu display
+incorporated
+Project Manager
+User Interface
+basic button
+flip top
+costs
+lightweight plastic
+material
+
+Marketing
+market
+convenient channel browsing
+volume adjustment features
+tampering
+programming
+buttons
+User Interface
+simplification
+symbols
+menu display
+remote
+user-friendly
+
+Industrial Designer
+replacement
+buttons
+Marketing
+age gap
+problem 
+regardless of 
+design modifications
+incorporation 
+menu display
+
+Industrial Designer
+remote
+fashionable 
+plastic
+Marketing
+Project Manager
+exemplified
+remote control
+silver plastic
+smart
+
+Project Manager
+price
+remote control
+25 Euros
+12.5-Euro
+cost
+profit
+team 
+50 million Euros
+market
+international
+all age
+
+Project Manager
+market
+international
+covering all age groups
+focusing solely
+business market
+language
+target group
+achievable
+
+battery
+Industrial Designer
+minimize
+size
+cost
+power consumption
+wireless range
+data transmission
+User Interface
+remote control design
+simplified
+user-friendly
+trendy
+flip-top
+
+Industrial Designer
+remote controls
+powered
+A batteries
+Industrial Designer
+bulky
+smallest 
+fit-in batteries
+smaller alternative
+triple A batteries
+
+market research
+Marketing
+remote control design
+stylish
+complicated
+Project Manager
+ideal model
+TV
+corporate logo
+Industrial Designer
+touch screen panel
+size
+physical differences
+international users
+speech recognition
+cost
+incorporated
+detection
+lost
+
+market research
+frustration
+remote control
+lost
+Industrial Designer
+button
+TV
+pressed the button
+beep
+location
+budget
+
+Industrial Designer
+Xbox
+Japanese people
+small hands
+big controller
+ergonomic
+Industrial Designer
+physical difference
+all over the world
+remote control 
+size
+
+model style
+trendy
+appealing
+Marketing
+Project Manager
+User Interface
+flip-screen
+remote control
+slightly curved
+curl up
+users' hands
+their thumbs
+press
+corporate logo
+in the corner
+lightweight plastic
+smooth bottom
+scallop shell exterior
+
+pressing
+DARPA 
+meeting
+July
+short time
+progress
+PLP results
+front-end
+reporting progress
+segmentation
+segmenter 
+improving performance investigated
+classifier segmentation
+prosody
+identifying interruption
+front end
+improvements
+3-5%
+
+pressing
+DARPA
+meeting
+July
+short time 
+progress
+
+DARPA 
+meeting
+July
+question answering
+mock-up
+transcriber interface
+data available
+
+final english 
+SmartKom demo
+presented
+institute
+system 
+de-bugged
+stabilised
+
+Segmentation
+recogniser
+cheating
+Thilo
+automatic segmenter
+
+classifier segmentation
+going well
+more data
+improve result
+non-native speaker 
+data 
+cannot be used
+
+improve the performance
+Thilo
+automatic segmenter
+retrained 
+adapted
+posteriors and 
+speaker 
+background models
+
+neural net
+doubling
+number of deletions
+improve significantly
+became better 
+at some tasks
+mixed basket
+further experimentation
+necessary
+
+professor
+what impact
+neural net
+older models
+pure features
+worthwhile
+improve
+occasionally
+over used
+
+most noisy cases
+distant microphone testing
+non-stationary noises
+background
+car
+babble
+subway
+unique challenge
+model 
+potentially 
+neural net
+
+VAD 
+neural net
+twelve times
+nine inputs
+two outputs
+improved significantly
+latency
+potentially
+in parallel
+
+professor
+how much 
+latency
+VAD
+model
+process
+in parallel
+max latency
+unknown
+
+PhD C
+silence probabilities
+100ms delay
+delta
+40ms delay
+10ms delay
+LDA filters
+
+Marketing
+fancy look
+important
+functionality
+product
+fruit
+vegetable
+trend
+spongy
+material
+taken into consideration
+potential materials
+accomplish
+fruit and vegetable theme
+sort of rubber
+stress ball
+cover
+colour
+sitting room
+
+Industrial Designer
+custom design
+standard
+protect the remote and the locator
+circuit board
+buttons
+wheels
+radio sender
+receiver
+beeper
+locating the remote
+Rubber
+plastic
+wood
+titanium
+materials
+titanium
+Regular chips
+iPod-style
+wheel button
+
+User Interface
+screen
+necessary
+visualize
+specific song
+cost
+TV
+not necessary
+
+Battery
+solar power
+dynamo
+Kryptonite
+potential options
+energy
+preference
+Kryptonite
+price
+expensive
+chip
+
+Industrial Designer
+battery
+dynamo
+Wind-up
+dynamo
+solar power
+available
+rubber case
+
+website
+cost
+cheap
+chip
+expensive
+Kryptonite 
+too much
+
+Kinetic charging
+LCD display
+top side
+flip top
+rubberized button
+volume control
+channel control
+circuit boards
+wires
+buttons
+Fruit and vegetable
+chilli red
+tomato red
+rubber cover
+case
+plastic
+company logo
+incorporated
+design
+voice recognition
+financial feasibility
+whistles
+beepers
+not feasible
+
+Teletext
+control
+buttons
+easy to find
+incorporated
+design
+flip design
+Voice recognition
+shape 
+different than normal
+shell
+lines
+remote is lost
+market
+business
+
+Market research
+subjects
+Marketing
+device
+fancy look
+feel
+technologically innovative
+easy to use
+Fruits and vegetables
+themes
+fashion fairs
+Paris
+Milan
+trend
+spongy feel
+materials
+
+Industrial Designer
+TA11835
+chip
+remote control
+standard signals
+input
+remotes
+silicone 
+printed circuit board
+PCB board
+circuits
+sent to the chip
+size
+board
+custom made
+
+Standard 
+AA
+AAA
+bulky
+cheapest
+Dynamo 
+dual charging
+normal batteries
+solar charging
+too much space
+cheapest
+resistant
+dropping
+Project Manager
+limit the market
+Kinetic charging
+small and portable
+market research
+rechargeable battery
+available
+remote
+standby mode
+button
+five or ten seconds
+in use
+
+Titanium
+expensive
+easily dented
+standard box shape
+plastic
+different curved shapes
+Marketing
+basic
+out of plastic
+rubber cover
+spongy feel
+cheap
+change the loo
+device
+Industrial Designer
+User Interface
+Project Manager
+jumped on board
+
+touch screen
+PCB circuit board
+different colours
+touch of fingers
+anti RSI rubber buttons
+LCD
+screen
+Industrial Designer
+LCD screen
+black and white
+distinguish
+press
+
+Industrial Designer
+lost easily
+Marketing
+easy
+cheap
+replace
+pencil
+pen
+User Interface
+switches channels
+particular function
+irritating to use
+spoil
+touchpad
+button
+
+Project Manager
+appeal
+watching television
+Marketing
+Industrial Designer
+Project Manager
+gave up
+
+chip 
+TA11835
+PCB board
+device
+kinetic charging
+standby mode
+save battery
+plastic
+changeable rubber cover
+LCD screens
+stylus
+mirror
+
+black and white
+colours
+monotonous
+consistency
+models
+buttons
+disorganized
+remote 
+graphic user interface
+flip top
+standard buttons
+fruit colours
+speech recognition
+endorsed by customers
+User Interface
+locating the remote
+
+Industrial Designer
+cheaper
+re-manufacture
+stock
+Project Manager
+materials
+cheap and simple
+LCD
+expensive
+black and white
+full colour
+User Interface
+upgrade later
+
+Industrial Designer
+modern remote control
+control
+diverse subset
+equipment
+User Interface
+function
+remote control
+state 
+TV
+pressing the button
+
+User Interface
+Industrial Designer
+remote control
+interoperable
+universal remote control
+fits every device
+function
+state of the TV
+pressing the button
+
+Industrial Designer
+modern remote control
+control
+diverse subset
+equipment
+remote control
+control one
+more 
+pieces of equipment
+
+Industrial Designer
+infrared connection
+old-fashioned
+novel
+Bluetooth
+Project Manager
+device
+rechargeable
+consume 
+power
+
+Industrial Designer
+remote control
+TV
+infrared connection
+hot technical
+Bluetooth
+
+Project Manager
+remote control
+consume
+power
+cellphone
+consume power
+quickly
+Bluetooth
+User Interface
